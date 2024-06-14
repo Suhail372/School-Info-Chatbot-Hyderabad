@@ -1,5 +1,9 @@
 # School-Info-Chatbot-Hyderabad
+## Description
 A chatbot designed to assist students and parents in Hyderabad schools by providing quick access to information and facilitating communication.
+
+## Disclaimer
+The data used in this project was sourced from yellowslate.com. We do not claim any ownership over the data and it is used solely for educational and learning purposes. This project is not intended for commercial use. If you are the owner of the data and have any concerns, please contact us at suhailazad372@gmail.com to have the data removed.
 
 ## How to Run the Project
 
@@ -52,10 +56,8 @@ Before running the chatbot, you need to collect and preprocess the data. Follow 
 3. **Run Preprocessing Script**
 
    Preprocess the collected data to prepare it for embedding:
-
-   ```bash
-   python data_preprocessing.py
-   ```
+   Run the preproccessing.ipynb to get preproccessed files.
+   For accessibility purposes these files are uploaded to another github repo and cloned into working directory of chatnotebook.ipynb file.
 
 These scripts will generate the necessary JSON files and preprocess them for the chatbot.
 
