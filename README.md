@@ -118,6 +118,6 @@ default_server.stop()
 
 This detailed guide should help you set up and run the project effectively. If you encounter any issues, please refer to the project documentation or open an issue in the repository.
 
-### Output Image after running Gradio Interface
+### Preview image after running Gradio Interface
 ![image](https://github.com/Suhail372/School-Info-Chatbot-Hyderabad/assets/116452539/47f766d1-4e7e-4a87-977f-2851f192f5d6)
 
